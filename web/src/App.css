@@ -1,0 +1,9 @@
+body { font-family: system-ui, sans-serif; background: #f6f7fb; margin: 0; }
+.wrap { max-width: 480px; margin: 3rem auto; padding: 0 1rem; }
+.muted { color: #666; font-size: .9rem; }
+.menu { list-style: none; padding: 0; }
+.menu li { display: flex; justify-content: space-between; align-items: center;
+  background: #fff; padding: .75rem 1rem; margin-bottom: .5rem; border-radius: 8px; }
+.menu small { color: #888; margin-left: .5rem; }
+.menu input[type=number] { width: 4rem; }
+.vip { display: block; margin: 1rem 0; }
